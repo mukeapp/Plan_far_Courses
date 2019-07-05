@@ -75,7 +75,7 @@ In-depth knowledge of HTML is at the heart of Web development, and an introducti
 Topics include: Git.
 Programming Concepts: Linux Bash
 Software include: Visual Studio Code (live server), Git Bash , GitHubDesktop, GitKraken
-https://app.pluralsight.com/library/courses/html-fundamentals/table-of-contents
+https://app.pluralsight.com/library/courses/introduction-to-html-1751/table-of-contents
 https://app.pluralsight.com/library/courses/css-intro/table-of-contents
 https://app.pluralsight.com/library/courses/javascript-getting-started/table-of-contents
 •	CSC 1301 Database Systems (4)
